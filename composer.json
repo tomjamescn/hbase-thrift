@@ -1,0 +1,17 @@
+{
+    "name": "tomjamescn/hbase-thrift",
+    "description": "hbase client for hbase throuth thrift gen",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tomjamescn",
+            "email": "tomjamescn@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "Hbase/Hbase.php",
+            "Hbase/Types.php"
+        ]
+    }
+}
